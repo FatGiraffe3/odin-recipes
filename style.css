@@ -1,0 +1,32 @@
+* {
+    margin:auto;
+    text-align: center;
+    width: 70%;
+    background-color: rgb(95, 212, 95);
+
+}
+
+img {
+    height: auto;
+    width: 50%;
+}
+
+li {
+    border-bottom: 1px solid black;
+    line-height: 1.25;
+}
+
+h1, h2 {
+    line-height: 2;
+}
+
+#credit {
+    line-height: 3;
+    color: rgb(212, 60, 85);
+}
+
+#links a{
+    line-height: 3;
+    color: rgb(147, 23, 205);
+    font-size: 20px;
+}
